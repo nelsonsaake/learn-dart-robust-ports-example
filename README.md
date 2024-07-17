@@ -1,3 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
-"# learn-dart-robust-ports-example" 
+Dart parallel programming example. Featuring two isolates, error handling, message tracking, port terminating.
